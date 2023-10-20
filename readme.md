@@ -155,8 +155,8 @@
 
 ## Good to Have/Know
 
-- [The Lean Startup by Eric Ries](https://www.youtube.com/@allin)
-- [Zero to One by Peter Thiel](https://www.youtube.com/@allin)
+- [The Lean Startup by Eric Ries](https://github.com/pankajchopra/Lean-Startup/blob/master/The%20Lean%20Startup%20.pdf)
+- [Zero to One by Peter Thiel](https://github.com/tedmiston/notes/blob/master/books/Zero%20to%20One.md)
 - [Lex Fridman's YouTube Channel](https://www.youtube.com/@lexfridman)
 - [Andrew Huberman's YouTube Channel](https://www.youtube.com/@hubermanlab)
 - [Jordan B. Peterson's YouTube Channel](https://www.youtube.com/@JordanBPeterson)
